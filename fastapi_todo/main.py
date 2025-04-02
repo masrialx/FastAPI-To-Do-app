@@ -14,7 +14,7 @@ from security import get_password_hash, verify_password, create_access_token, ge
 app = FastAPI(title="FastAPI To-Do with Auth")
 
 # Config
-SECRET_KEY = "your-secret-key-here"  # Change this in production
+SECRET_KEY = "fdhgshdfskjdhfskj"  # Change this in production
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 

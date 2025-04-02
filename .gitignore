@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+/fastapi_todo_env
+# IDEs
+.vscode/
+.idea/
+
+# Database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+
+# FastAPI specific
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
